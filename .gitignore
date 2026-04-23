@@ -1,0 +1,6 @@
+yolo_env/
+yolo-weights/
+videos/
+__pycache__/
+*.pt
+*.mp4
