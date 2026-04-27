@@ -1,6 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
 yolo_env/
+.env
+
+# YOLO outputs
+runs/
+
+# Large data (not committed)
 yolo-weights/
 videos/
-__pycache__/
 *.pt
 *.mp4
+
+# IDE / tools
+.vscode/
+.idea/
+.claude/
+.DS_Store
